@@ -19,20 +19,20 @@ I am looking forward to input more operators, decimals, and adding more mode for
 
 ## Component Wiring
 -  Keypad:
-          1 → pin A0
-          2 → pin A1
-          3 → pin A2
-          4 → pin A3
-          5 → pin 2
-          6 → pin 3
-          7 → pin 4
-          8 → pin 5
+- 1 → pin A0
+- 2 → pin A1
+- 3 → pin A2
+- 4 → pin A3
+- 5 → pin 2
+- 6 → pin 3
+- 7 → pin 4
+- 8 → pin 5          
 -  LCD screen:
-          GND → Ground
-          VCC → V source or 5v
-          SDA → A4
-          SCL → A5
-Code and wiring link to my tinkercad: https://www.tinkercad.com/things/bcfH9FBlHFf-ee-calculator
+- GND → Ground
+- VCC → V source or 5v
+- SDA → A4
+- SCL → A5
+- Code and wiring link to my tinkercad: https://www.tinkercad.com/things/bcfH9FBlHFf-ee-calculator
 
 ## What I Learned
 - How to wire and set up the Keypad's code
