@@ -41,7 +41,7 @@ I am looking forward to input more operators, decimals, and adding more mode for
 - Working and eperimenting with for loops in C++ in actual projects.
 
 ## Video of the Project
-https://www.youtube.com/shorts/K_uIZUC6h34
+https://m.youtube.com/shorts/FJI90TVSE9w
 
 ## Date
 January 2026
