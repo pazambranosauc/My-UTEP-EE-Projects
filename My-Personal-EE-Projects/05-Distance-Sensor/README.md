@@ -26,18 +26,18 @@ closer the car is.
 
 ## Component Wiring
 -  Distance sensor:
-          VCC → V source or 5v
-          Trigger → pin 9
-          Echo → pin 10
-          GND → Ground
+          VCC → V source or 5v,
+          Trigger → pin 9,
+          Echo → pin 10,
+          GND → Ground.
 -  Buzzer:
-          + → pin 11
-          - → Ground
+          + → pin 11,
+          - → Ground.
 -  LCD screen:
-          GND → Ground
-          VCC → V source or 5v
-          SDA → A4
-          SCL → A5
+          GND → Ground,
+          VCC → V source or 5v,
+          SDA → A4,
+          SCL → A5.
 
 ## What I Learned
 - How ultrasonic sensors work.
