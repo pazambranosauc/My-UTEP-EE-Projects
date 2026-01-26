@@ -44,7 +44,11 @@ closer the car is.
 - How to wire and setup the code for the Distance sensor.
 - How to wire the buzzer.
 - Using the tone(pin, 1000); function
--Implemeting math calculations to display distance in different units. 
+-Implemeting math calculations to display distance in different units.
+
+## Videos of the project
+Distance sensor: https://www.youtube.com/shorts/j4xgsPRqZHg
+Parking sensor: https://www.youtube.com/shorts/gVYDB8vqf6Q
 
 ## Date
 January 2026
