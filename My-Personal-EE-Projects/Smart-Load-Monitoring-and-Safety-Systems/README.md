@@ -25,11 +25,11 @@ Objective: Design a compact system that monitors current, voltage, temperature, 
 ### Extra Fixes
 
 ## Final Result
-Pictures:
-Videos:
+- Pictures:
+- Videos:
 
 ## Author and Contact
-Author: pazambranosauc
-LinkedIn: https://www.linkedin.com/in/pedro-alejandro-zambrano-saucedo-96a88838b/
-YouTube: https://www.youtube.com/@PedroA.Zambrano-Saucedo-h3y
+- Author: pazambranosauc
+- LinkedIn: https://www.linkedin.com/in/pedro-alejandro-zambrano-saucedo-96a88838b/
+- YouTube: https://www.youtube.com/@PedroA.Zambrano-Saucedo-h3y
 
