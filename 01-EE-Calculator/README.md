@@ -38,7 +38,7 @@ I am looking forward to input more operators, decimals, and adding more mode for
 - How to wire and set up the Keypad's code
 - Take input from the keypad and convert it into calculations
 - Working with C++ math
-- Working and eperimenting with for loops in C++ in actual projects.
+- Working and experimenting with for loops in C++ in actual projects.
 
 ## Video of the Project
 https://m.youtube.com/shorts/FJI90TVSE9w
