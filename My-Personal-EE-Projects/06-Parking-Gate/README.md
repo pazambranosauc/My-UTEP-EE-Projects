@@ -32,9 +32,9 @@ IR sensors for it to work entering and leaving the parking lot, but since I don'
   - SDA → A4
   - SLC → A5
 - Micro Servo:
-  - ? → ?
-  - ? → ?
-  - ? → ?
+  - GND → GND
+  - VCC → 5v
+  - Data → pin 8
 - LEDs:
   - GND → Red LED → 220Ω resistor → 5V
   - GND → Green LED → 1kΩ resistor → 5V
