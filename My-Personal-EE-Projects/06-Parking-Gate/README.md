@@ -5,6 +5,8 @@ This project is meant to simulate a parking gate with a simple functioning, the 
 then the gate opens for couple seconds. I added a car counting feature, which tells you the amount of spaces left. I 3D designed and 
 printed the gate stick using Fusion 360 and an Ender 3, but it can replaced with a wooden stick or something alike. I wanted to use
 IR sensors for it to work entering and leaving the parking lot, but since I don't have any I will improve it once I get some.
+This project was mainly educative for me. I wanted to implent servos to learn about their wiring and coding to later implement them in 
+more complex future projects.
 
 ## Components
 - Arduino UNO
@@ -40,9 +42,12 @@ IR sensors for it to work entering and leaving the parking lot, but since I don'
   - GND → Green LED → 1kΩ resistor → 5V
 
 ## What I Learned
-On progress
+  - How to correctly setup and wire a servo.
+  - Combine mutiple sensors to make something manage data.
 ## Problems
-???
+I struggle with the 3D printing precision. I have 3D printed before but didn't need milimeter precision.
+That was really educative, since 3D printing usually makes a desing thicker or taller and sometimes curved.
+This just means I have to keep practicing and trying new things to take those erros into account beforehand.
 
 ## Date
-January 2026
+March 2026
