@@ -49,5 +49,9 @@ I struggle with the 3D printing precision. I have 3D printed before but didn't n
 That was really educative, since 3D printing usually makes a desing thicker or taller and sometimes curved.
 This just means I have to keep practicing and trying new things to take those erros into account beforehand.
 
+## Videos of the project
+Parking Gate prject progress: https://www.youtube.com/watch?v=zLpb_QMXn3A
+Parking Gate Final Result: https://www.youtube.com/watch?v=Quojk_kl2gg
+
 ## Date
 March 2026
