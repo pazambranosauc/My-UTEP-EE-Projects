@@ -43,6 +43,7 @@ This project is also meant to help me improve my EE-Calculator project adding mo
 ## Problems 
 
 ## Videos of the project
+Mini Console Progress: https://www.youtube.com/watch?v=tJ3czAZk3TU
 
 ## Date
 April 2026
