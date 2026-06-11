@@ -50,8 +50,8 @@ That was really educative, since 3D printing usually makes a desing thicker or t
 This just means I have to keep practicing and trying new things to take those erros into account beforehand.
 
 ## Videos of the project
-Parking Gate prject progress: https://www.youtube.com/watch?v=zLpb_QMXn3A
-Parking Gate Final Result: https://www.youtube.com/watch?v=Quojk_kl2gg
+- Parking Gate prject progress: https://www.youtube.com/watch?v=zLpb_QMXn3A
+- Parking Gate Final Result: https://www.youtube.com/watch?v=Quojk_kl2gg
 
 ## Date
 March 2026
