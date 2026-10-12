@@ -16,6 +16,7 @@
    - Learning: Python, Arduino, Circuit Analysis
    
    ## Contact
-   - LinkedIn: https://www.linkedin.com/in/pedro-alejandro-zambrano-saucedo-96a88838b 
+   - LinkedIn: https://www.linkedin.com/in/pedro-zambrano-saucedo/
    - Email: pazambranosauc@miners.utep.edu
    - YouTube: https://m.youtube.com/channel/UCnptnVM3h0722NjUki3-IMA
+   - Portfolio: https://pazambranosauc.github.io/pazambranosauc/
